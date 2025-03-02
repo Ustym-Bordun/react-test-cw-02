@@ -1,8 +1,15 @@
+.buttonsWrapper {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+
+  margin: 20px 0 50px;
+}
+
 .button {
-  display: block;
+  /* display: block; */
 
   width: 200px;
-  margin: 30px auto;
 
   padding: 10px;
   border: none;

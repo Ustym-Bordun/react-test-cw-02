@@ -2,7 +2,7 @@
 
 import "./App.css";
 
-import ChangeTitleBtn from "./components/Button/Button";
+import ChangeTitleBtns from "./components/ChangeTitleBtns/ChangeTitleBtns";
 import ModalSection from "./components/ModalSection/ModalSection";
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
 
   return (
     <>
-      <ChangeTitleBtn />
+      <ChangeTitleBtns />
 
       {/* Comment */}
 
